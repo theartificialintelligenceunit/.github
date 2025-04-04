@@ -4,7 +4,7 @@
 <ul>
   <li><a href="https://d3h5uy7f3ttkyl.cloudfront.net/index.html">River Level Predictions</a></li>
   <li><a href="https://d22j2jhm9iagpk.cloudfront.net/index.html">Token Classification</a></li>
-  <li><a href="">Accident & Emergency (A&E) Trends & Numbers Forecasts</a> (Editing)</li>
+  <li><a href="">Accident & Emergency (A&E) Trends & Numbers Forecasts</a> (Disabled, Editing)</li>
 </ul>
 
 <br>
