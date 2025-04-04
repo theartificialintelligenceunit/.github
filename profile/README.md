@@ -1,4 +1,15 @@
-This is the Unit's landing page.  More notes during the next fortnight - starting 15 March 2025.
+
+
+<h3>Projects</h3>
+<ul>
+  <li><a href="https://d3h5uy7f3ttkyl.cloudfront.net/index.html">River Level Predictions</a></li>
+  <li><a href="https://d22j2jhm9iagpk.cloudfront.net/index.html">Token Classification</a></li>
+  <li><a href="">Accident & Emergency Trends & Numbers Forecasts</a> (Editing)</li>
+</ul>
+
+<br>
+
+More text will be added to this landing page.
 
 <br>
 <br>
