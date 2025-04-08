@@ -11,6 +11,14 @@ The applications, insights, and project/model details hubs:
 </ul>
 
 <br>
+
+Ideas underpinning the deployment of machine learning dependent solutions:
+
+<ul>
+  <li>Illustrating <b>Automation + Orchestration</b> via Daily Nitrogen Distributions: <a href="https://d29mim58jd41o6.cloudfront.net/" target="_blank">Notes & Insights</a></li>
+</ul>
+
+<br>
 <br>
 
 <br>
