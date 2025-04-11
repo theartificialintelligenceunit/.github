@@ -7,7 +7,7 @@ The applications, insights, and project/model details hubs:
 <ul>
   <li><a href="https://d3h5uy7f3ttkyl.cloudfront.net/index.html">River Level Predictions</a> [Visible, Editing]</li>
   <li><a href="https://d22j2jhm9iagpk.cloudfront.net/index.html">Token Classification</a> [Visible, Editing]</li>
-  <li><a href="https://d179hb1okg0baa.cloudfront.net/index.html">Accident & Emergency (A&E) Trends & Numbers Forecasts</a> [Visible, Editing]</li>
+  <li><a href="https://d179hb1okg0baa.cloudfront.net/index.html">Accident & Emergency (A&E): Predicting Trends, Estimating Attendance Bands</a> [Visible, Editing]</li>
 </ul>
 
 <br>
