@@ -5,7 +5,7 @@
 The applications, insights, and project/model details hubs:
 
 <ul>
-  <li><a href="https://d3h5uy7f3ttkyl.cloudfront.net/index.html">River Level Predictions</a> [Visible, Editing]</li>
+  <li><b>River Level Predictions</b> [Weekend Update: 16/17 May 2025]</li>
   <li><a href="https://d22j2jhm9iagpk.cloudfront.net/index.html">Token Classification</a> [Visible, Editing]</li>
   <li><a href="https://d179hb1okg0baa.cloudfront.net/index.html">Accident & Emergency (A&E): Predicting Trends, Estimating Attendance Bands</a> [Visible, Editing]</li>
 </ul>
@@ -31,6 +31,8 @@ Ideas underpinning the deployment of machine learning dependent solutions:
 <br>
 
 <!--
+
+https://d3h5uy7f3ttkyl.cloudfront.net/index.html
 
 **Here are some ideas to get you started:**
 
