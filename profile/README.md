@@ -5,7 +5,7 @@
 The applications, insights, and project/model details hubs:
 
 <ul>
-  <li><b>River Level Predictions</b> [Weekend Update: 16/17 May 2025]</li>
+  <li><b>River Level Predictions</b> [Updating: 16 - 21 May 2025]</li>
   <li><a href="https://d22j2jhm9iagpk.cloudfront.net/index.html">Token Classification</a> [Visible, Editing]</li>
   <li><a href="https://d179hb1okg0baa.cloudfront.net/index.html">Accident & Emergency (A&E): Predicting Trends, Estimating Attendance Bands</a> [Visible, Editing]</li>
 </ul>
