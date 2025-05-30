@@ -1,22 +1,4 @@
-
-
-<h3>Projects</h3>
-
-The applications, insights, and project/model details hubs:
-
-<ul>
-  <li><a href="https://d3h5uy7f3ttkyl.cloudfront.net/index.html">River Level Predictions</a> [Visible, Editing]</li>
-  <li><a href="https://d22j2jhm9iagpk.cloudfront.net/index.html">Token Classification</a> [Visible, Editing]</li>
-  <li><b>Accident & Emergency (A&E)</b> [Invisible, Upgrading]</li>
-</ul>
-
-<br>
-
-Ideas underpinning the deployment of machine learning dependent solutions:
-
-<ul>
-  <li>Illustrating <b>Automation + Orchestration</b> via Daily Nitrogen Distributions: <a href="https://d29mim58jd41o6.cloudfront.net/" target="_blank">Notes & Insights</a></li>
-</ul>
+The Artificial Intelligence Unit
 
 <br>
 <br>
@@ -32,7 +14,25 @@ Ideas underpinning the deployment of machine learning dependent solutions:
 
 <!--
 
-https://d179hb1okg0baa.cloudfront.net/index.html
+
+<h3>Projects</h3>
+
+The applications, insights, and project/model details hubs:
+
+<ul>
+  <li><a href="https://d3h5uy7f3ttkyl.cloudfront.net/index.html">River Level Predictions</a></li>
+  <li><a href="https://d22j2jhm9iagpk.cloudfront.net/index.html">Token Classification</a></li>
+  <li><a href="https://d179hb1okg0baa.cloudfront.net/index.html">Accident & Emergency (A&E)</a></li>
+</ul>
+
+<br>
+
+Ideas underpinning the deployment of machine learning dependent solutions:
+
+<ul>
+  <li>Illustrating <b>Automation + Orchestration</b> via Daily Nitrogen Distributions: <a href="https://d29mim58jd41o6.cloudfront.net/" target="_blank">Notes & Insights</a></li>
+</ul>
+
 
 **Here are some ideas to get you started:**
 
