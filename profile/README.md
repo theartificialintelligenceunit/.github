@@ -1,5 +1,7 @@
 The Artificial Intelligence Unit
 
+**Updating**, back on Monday 9 June 2025.
+
 <br>
 <br>
 
