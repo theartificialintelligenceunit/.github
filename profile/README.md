@@ -1,6 +1,6 @@
 The Artificial Intelligence Unit
 
-<a href="https://theartificialintelligenceunit.github.io/intelligence/" target="_blank">TRY ME</a>
+<kbd> <br> [VISIT HUB](https://theartificialintelligenceunit.github.io/intelligence/) ↗️ <br> </kbd>
 
 <br>
 <br>
