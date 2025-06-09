@@ -1,6 +1,6 @@
 The Artificial Intelligence Unit
 
-**Updating**, back on Monday 9 June 2025.
+<a href="https://theartificialintelligenceunit.github.io/intelligence/" target="_blank">TRY ME</a>
 
 <br>
 <br>
