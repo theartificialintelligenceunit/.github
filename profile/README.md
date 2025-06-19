@@ -1,6 +1,6 @@
 The Artificial Intelligence Unit
 
-<kbd> <br> [VISIT HUB](https://theartificialintelligenceunit.github.io/intelligence/) ↗️ <br> </kbd>
+<kbd> <br> [VISIT HUB: In Service & Illustrative Machine Learning Dependent Items](https://theartificialintelligenceunit.github.io/intelligence/) ↗️ <br> </kbd>
 
 <br>
 <br>
