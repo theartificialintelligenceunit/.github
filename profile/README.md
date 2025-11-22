@@ -1,14 +1,6 @@
 The Artificial Intelligence Unit
 
 <br>
-
-The unit's applied team has/had a continuously developing pool of resources that underpin its norms/practices.  It ensures that team members have a shared understanding of our norms/practices, and approximate expectations in relation to collaborating or partnerships.
-
-* [Determining, developing, and deploying machine learning dependent solutions: planning for success](https://thereferences.github.io/systems)
-* The data science team's _technology, development, and deployment_ practices [notes](https://thereferences.github.io/practice)
-* [Templates for the machine learning engineers, data engineers, developers, and data scientists](https://github.com/thetemplates)
-
-<br>
 <br>
 
 <br>
@@ -22,6 +14,11 @@ The unit's applied team has/had a continuously developing pool of resources that
 
 <!--
 
+The unit's applied team has/had a continuously developing pool of resources that underpin its norms/practices.  It ensures that team members have a shared understanding of our norms/practices, and approximate expectations in relation to collaborating or partnerships.
+
+* [Determining, developing, and deploying machine learning dependent solutions: planning for success](https://thereferences.github.io/systems)
+* The data science team's _technology, development, and deployment_ practices [notes](https://thereferences.github.io/practice)
+* [Templates for the machine learning engineers, data engineers, developers, and data scientists](https://github.com/thetemplates)
 
 <h3>Projects</h3>
 
