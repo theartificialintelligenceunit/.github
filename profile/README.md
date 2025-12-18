@@ -1,4 +1,4 @@
-The <a href="https://theartificialintelligenceunit.github.io/abstracts/" target="_blank">README</a> outlines a few projects that first started off within the Scottish Government; funded by Amazon Web Services.  From December 2025 onwards, external partners and volunteers are building on the projects elsewhere; developments will appear within the original repositories or elsewhere - predominantly elsewhere.
+The <a href="https://theartificialintelligenceunit.github.io/abstracts/" target="_blank">README</a> outlines a few projects that first started off within the Scottish Government; funded by Amazon Web Services.  From December 2025 onwards, external partners and interested parties are building on the projects elsewhere; developments may appear within the original repositories or elsewhere - predominantly elsewhere.
 
 <a href="https://theartificialintelligenceunit.github.io/abstracts/" target="_blank">README</a>
 
