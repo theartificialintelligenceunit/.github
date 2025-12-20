@@ -1,4 +1,4 @@
-The <a href="https://theartificialintelligenceunit.github.io/abstracts/" target="_blank">README</a> outlines a few applied _artificial intelligence_/_machine learning_ projects that started off within the Scottish Government; funded by Amazon Web Services.  Henceforth - December 2025 onwards - external partners, interested parties, etc., are building on [will build on] the projects elsewhere; developments may appear within the original repositories or elsewhere - predominantly elsewhere.
+The <a href="https://theartificialintelligenceunit.github.io/abstracts/" target="_blank">README</a> outlines a few *applied* _artificial intelligence_/_machine learning_ projects that started off within the Scottish Government; funded by Amazon Web Services.  Henceforth - December 2025 onwards - external partners, interested parties, etc., are building on [will build on] the projects elsewhere; developments may appear within the original repositories or elsewhere - predominantly elsewhere.
 
 <a href="https://theartificialintelligenceunit.github.io/abstracts/" target="_blank">README</a>
 
