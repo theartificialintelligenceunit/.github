@@ -18,6 +18,8 @@ The <a href="https://theartificialintelligenceunit.github.io/abstracts/" target=
 
 https://nbviewer.org/github/theartificialintelligenceunit/abstracts/blob/master/.sketches/discussion.drawio.html#
 
+few: https://d3ju6iarczw32h.cloudfront.net/src/c-eclectic-introduction.html
+
 nitrogen: https://d29mim58jd41o6.cloudfront.net/src/background.html
 t5: https://d3ju6iarczw32h.cloudfront.net/src/c-eclectic-introduction.html
 distilBERT: https://d8md0papur5m0.cloudfront.net/src/c-dispatches-introduction.html
